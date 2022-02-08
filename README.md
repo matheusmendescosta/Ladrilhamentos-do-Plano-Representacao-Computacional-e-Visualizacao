@@ -5,4 +5,3 @@
 Ladrilhamentos do Plano: Representação Computacional e Visualização <br>
 Orientador: José Ezequiel Soto Sánchez
 <h3>
-![alt text](https://sispag.impa.br/resources/images/impa-logo.png)
